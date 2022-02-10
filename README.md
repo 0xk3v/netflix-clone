@@ -1,5 +1,8 @@
 # Netflix Clone with React
 
+
+![Page Screenshot](screenshot.png)
+
 ## Commands available:
 
 ### Installing Dependencies:
