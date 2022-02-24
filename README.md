@@ -6,7 +6,7 @@
 ## Commands available:
 
 ### Installing Dependencies:
-#### `yarn install`
+`yarn install`
 
 ### Running the Development Server:
-#### `yarn start`
+`yarn start`
