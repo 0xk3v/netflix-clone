@@ -5,7 +5,7 @@
 
 ## Commands available:
 
-### Installing Dependencies:
+### Installing Packages:
 `yarn install`
 
 ### Running the Development Server:
